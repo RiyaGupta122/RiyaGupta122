@@ -70,9 +70,12 @@
 ---
 
 ### 📊 Visualization & BI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,excel" />
-</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" /> &nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+- Dashboard creation & reporting  
+- Insight generation & data storytelling
 
 - Power BI, Excel  
 - Insight generation & reporting  
