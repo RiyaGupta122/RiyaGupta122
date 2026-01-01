@@ -1,125 +1,114 @@
-# 👋 Hi, I'm Riya Gupta  
-### 🚀 AI / Machine Learning Engineer | GenAI & LLM Enthusiast  
+<h1 align="center">Hi 👋, I'm Riya Gupta</h1>
+<h3 align="center">AI / Machine Learning Engineer | GenAI & LLM Enthusiast</h3>
 
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/riyagupta2409722">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:riyagupta.24022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/RiyaGupta122">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 **B.Tech in Artificial Intelligence & Machine Learning (2022–2026)**  
 📍 Pune, India  
-🔍 Actively seeking **AI/ML Intern / Entry-Level Engineer roles**
+
+- 🤖 Passionate about **AI, ML, Deep Learning & GenAI**
+- 🧠 Hands-on with **LLMs, RAG pipelines, LangChain**
+- 📊 Love solving real-world problems with data
+- 🚀 Actively seeking **AI/ML Intern / Entry-Level roles**
 
 ---
 
-## 🧠 About Me
+## 🛠️ Technical Skills
 
-I’m an **AI/ML student passionate about building real-world intelligent systems** using Machine Learning, Deep Learning, and Generative AI.  
-I enjoy working end-to-end — from **data preprocessing and modeling** to **deployment and evaluation**.
-
-- 🤖 Strong foundation in **ML, DL, NLP, Computer Vision**
-- 🧩 Hands-on experience with **LLMs, RAG pipelines, LangChain**
-- 📊 Love converting data into **measurable business impact**
-- 🌱 Currently improving **MLOps & system design skills**
-
----
-
-## 🛠️ Tech Stack
-
-### 👩‍💻 Programming
-- Python | Java
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🤖 AI / ML / GenAI
-- Machine Learning, Deep Learning
-- NLP, Computer Vision
-- LLMs, RAG, Prompt Engineering
-- LangChain, OpenAI API, Hugging Face
-- TensorFlow, PyTorch, Scikit-learn
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
 
-### 🧰 Frameworks & Tools
-- Flask, REST APIs
-- Streamlit
-- Git, GitHub
-
-### 🗄️ Data & Databases
-- SQL, MongoDB
-- Pandas, NumPy
-
-### 📊 Visualization
-- Power BI, Excel
+### 🗄️ Databases & Tools
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔹 AI-Powered CollegeQuery Chatbot (RAG-based)
-**Tech:** Python, LangChain, OpenAI, Streamlit  
-- Built an **LLM-driven chatbot** answering **500+ academic queries**
-- Achieved **95% response accuracy**
-- Improved response relevance by **40%** using semantic search
-- Reduced manual query handling by **60%**
+- Built LLM chatbot answering **500+ queries**
+- **95% accuracy**, **40% better relevance**
+- Reduced manual workload by **60%**
 
-🔗 Repo: https://github.com/RiyaGupta122/AI_chatbot_Collegequery_RAG_OpenAI-API
+🔗 Repo:  
+👉 https://github.com/RiyaGupta122/AI_chatbot_Collegequery_RAG_OpenAI-API
 
 ---
 
 ### 🔹 Demand Forecasting & Safety Stock Optimization
-**Tech:** Python, ARIMA, SARIMA, Prophet, XGBoost, LSTM  
-- Improved demand forecast accuracy by **~20% (MAPE)**
-- Reduced stock-outs by **30%**
-- Lowered inventory holding cost by **20%**
-- Automated weekly forecasting pipeline (RMSE, MAPE)
+- Models: **ARIMA, SARIMA, Prophet, XGBoost, LSTM**
+- **20% MAPE improvement**
+- **30% stock-out reduction**
 
 ---
 
 ### 🔹 Anti-Face Spoofing Detection
-**Tech:** TensorFlow, DCGANs, EfficientNet  
-- Trained on **10,000+ images**
-- Achieved **94% spoof detection accuracy**
-- Improved robustness against attacks by **25%**
-- End-to-end ML pipeline: training → validation → testing
+- **DCGANs + EfficientNet**
+- Trained on **10K+ images**
+- **94% accuracy**
 
 ---
 
-### 🔹 Resume Compatibility Analyzer
-**Tech:** Python, NLP, Streamlit  
-- Processed **1,000+ resumes & JDs**
-- Used TF-IDF & Cosine Similarity
-- Reduced recruiter screening time by **60%**
-- Built interactive dashboard with **92% accuracy**
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiyaGupta122&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyaGupta122&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaGupta122&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### 🔹 Railway Reservation System
-**Tech:** Java, JDBC, SQL  
-- Supported **500+ daily transactions**
-- Handled **100+ concurrent users**
-- Achieved **99.99% uptime**
-- Implemented modular OOP-based architecture
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RiyaGupta122&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-## 💼 Experience
+## 🏅 Achievements
 
-### 🏢 Bit Big Pvt. Ltd — *Business Analytics Intern*
-📅 Jun 2023 – Apr 2024  
-- Analyzed website traffic & user behavior → **+15% engagement**
-- Email campaign analysis → **+20% CTR improvement**
-- Delivered actionable insights for lead generation & growth
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥈 **Accenture Strategy Connect Hackathon** — 2nd Runner Up  
-- 🏁 **MUFG Hackathon** — Finalist  
-- 📜 Udemy — *LLM Engineering: Large Language Models & Agents*  
-- 🎨 Udemy — *UI/UX & Figma*
+- 🥈 **Accenture Strategy Connect Hackathon – 2nd Runner Up**
+- 🏁 **MUFG Hackathon – Finalist**
+- 📜 LLM Engineering – Udemy
 
 ---
 
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/riyagupta2409722  
-- 🧑‍💻 GitHub: https://github.com/RiyaGupta122  
 - 📧 Email: riyagupta.24022@gmail.com  
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*  
-🚀 *Open to collaborations, internships, and full-time AI/ML opportunities*
+⭐ *If you like my work, consider starring my repositories!*  
+🚀 *Always open to collaborations & opportunities*
