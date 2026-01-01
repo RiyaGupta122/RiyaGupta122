@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 🎓 ***SYMBIOSIS INTERNATIONAL UNIVERSITY***
-🎓 **B.Tech in Artificial Intelligence & Machine Learning  (2022–2026)**  
+ **B.Tech in Artificial Intelligence & Machine Learning  (2022–2026)**  
 📍 Pune, India  
 
 - 🤖 Focused on **AI, Machine Learning, Deep Learning & GenAI**
