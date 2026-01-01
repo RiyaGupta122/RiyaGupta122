@@ -71,7 +71,7 @@
 
 ### 📊 Visualization & BI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi" />
+  <img src="https://skillicons.dev/icons?i=powerbi,excel" />
 </p>
 
 - Power BI, Excel  
