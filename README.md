@@ -83,9 +83,12 @@
 ## 🏆 Achievements & Certifications
 
 - 🥈 Accenture Strategy Connect Hackathon — **2nd Runner Up**
-- 🏁 MUFG Hackathon — **Finalist**
+- 🏁 MUFG Hackathon
+- 🏁 SIH 2024
+- 🏁 Impectus Ideathon
 - 📜 Udemy — **LLM Engineering: Large Language Models & Agents**
 - 🎨 Udemy — **UI/UX & Figma**
+  
 
 ---
 
